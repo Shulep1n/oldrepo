@@ -1,0 +1,13 @@
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\WorstAshe.exe.config
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\WorstAshe.exe
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\WorstAshe.pdb
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\EloBuddy.dll
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\EloBuddy.SDK.dll
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\SharpDX.dll
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\bin\Debug\Newtonsoft.Json.dll
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\obj\Debug\WorstAshe.csprojResolveAssemblyReference.cache
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\obj\Debug\WorstAshe.exe
+c:\users\наталья\documents\visual studio 2015\WorstAshe\WorstAshe\obj\Debug\WorstAshe.pdb
+C:\Users\Наталья\Documents\Visual Studio 2015\WorstAshe\WorstAshe\obj\Debug\WorstAshe.Properties.Resources.resources
+C:\Users\Наталья\Documents\Visual Studio 2015\WorstAshe\WorstAshe\obj\Debug\WorstAshe.csproj.GenerateResource.Cache
